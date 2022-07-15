@@ -2,13 +2,13 @@
 
 This is website project for my youtube series "Build and deploy website."
 
-### Requirements (\*)
+### 🚀 Requirements (\*)
 
 - **nodejs >= v15.6.0**
 - **npm >= v6.14.11**
 - **yarn >= v1.22.10**
 
-### Tech stack (zstrn)
+### 📦 Tech stack (zstrn)
 
 1. Zustand
 
@@ -37,7 +37,7 @@ This is website project for my youtube series "Build and deploy website."
    - Server-side rendering
    - Static generation
 
-### Clone project
+### 🌀 Clone project
 
 ```
 $ git clone https://git_url_clone <project_dir>
