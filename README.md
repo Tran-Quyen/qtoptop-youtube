@@ -1,6 +1,7 @@
 # ✨QTopTop✨
 
-This is website project for my youtube series "Build and deploy website."
+This is website project for my youtube series "Build and deploy website." on QTechFun'sYoutube
+
 
 ### 🚀 Requirements (\*)
 
