@@ -2,6 +2,7 @@
 
 This is website project for my youtube series "Build and deploy website." on QTechFun'sYoutube
 
+### Youtube: https://www.youtube.com/playlist?list=PLXexeOmhXQe9q_LMN2ewRlx28mHBrKv-Y
 
 ### 🚀 Requirements (\*)
 
