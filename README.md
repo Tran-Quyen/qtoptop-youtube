@@ -45,6 +45,14 @@ This is website project for my youtube series "Build and deploy website." on QTe
 $ git clone https://git_url_clone <project_dir>
 ```
 
+### Install package
+
+```
+npm i @sanity/client@^3.3.0 axios@^0.27.2 react-google-login@^5.2.2 react-icons@^4.3.1 uuidv4@^6.2.13 zustand@^4.0.0-rc.1
+```
+
+### Install [Tailwindcss](https://tailwindcss.com/docs/guides/nextjs)
+
 #### ❄️ Author: Quyen Dang
 
 #### 🔥 Facebook: https://www.facebook.com/QuyenGiaSuJS/
