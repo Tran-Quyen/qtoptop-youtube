@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import Logo from '~/utils/logo192.png';
+import Logo from '~/assets/logo/logo192.png';
 
 const Header = ({ }) => {
   return (

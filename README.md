@@ -51,6 +51,12 @@ $ git clone https://git_url_clone <project_dir>
 npm i @sanity/client@^3.3.0 axios@^0.27.2 react-google-login@^5.2.2 react-icons@^4.3.1 uuidv4@^6.2.13 zustand@^4.0.0-rc.1
 ```
 
+### Guide run project
+
+B1: Clone from git and open with vscode
+B2: Install node_modules with $npm i
+B3: Open terminal and run $npm start
+
 ### Install [Tailwindcss](https://tailwindcss.com/docs/guides/nextjs)
 
 #### ❄️ Author: Quyen Dang
@@ -62,4 +68,3 @@ npm i @sanity/client@^3.3.0 axios@^0.27.2 react-google-login@^5.2.2 react-icons@
 #### ✨ Phone: (+84)337846412
 
 #### 😄 Magic Number: 142857 (x 1,2,3,4,5,6,7) (Secret Egypt)
-
